@@ -32,7 +32,7 @@ Web traffic analytics dashboard built with Google Looker Studio.
 
 ## 🔗 Live Dashboard
 
-[View live dashboard](https://lookerstudio.google.com/reporting/ad312fdd-a568-4a2d-9cdb-f6841c855c19/page/p_72g3e5obwd/edit)
+[View live dashboard](https://lookerstudio.google.com/reporting/ad312fdd-a568-4a2d-9cdb-f6841c855c19)
 
 ## 🚀 Usage
 
